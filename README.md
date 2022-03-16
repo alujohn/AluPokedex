@@ -1,5 +1,5 @@
 # Exemplo de Pokédex pra treinar CSS e JS.
-
+#### O projetinho foi feito em HTML, CSS e JS puro. Sem a utilização de framworks.
 ## Resultado:
 
 <img alt="AluPokedex" height="662" width="1021" src="https://github.com/alujohn/AluPokedex/blob/main/src/imagens/img1.png?raw=true"/>
